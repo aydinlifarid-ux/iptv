@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AnewZTV.az" group-title="Azərbaycan",AnewZ TV
-http://svln.li/anewz.m3u8
+#EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Azərbaycan",ARB 24
 #EXTVLCOPT:http-referrer=https://tvstream.az/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -35,8 +37,8 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 https://az.tvstream.az/hls/stream8/stream.m3u8
 #EXTINF:-1 tvg-id="VilayetTV.az" group-title="Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az" group-title="Azərbaycan",Xezer TV
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az@SD" group-title="Azərbaycan",Xezer TV (1080p)
+https://xezer.tvstream.az/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="360.tr@SD" group-title="Türkiyə",360 TV (720p)
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr@SD" group-title="Türkiyə",4U TV (720p)
@@ -63,6 +65,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" group-title="Türkiyə",BENGÜTÜRK TV (720p)
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="BiKanal.tr@SD" group-title="Türkiyə",Bi Kanal (1080p)
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr@SD" group-title="Türkiyə",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Türkiyə",Bloomberg HT (720p)
@@ -105,6 +109,8 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Türkiyə",FB TV (720p)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" group-title="Türkiyə",Finans Turk TV (720p)
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" group-title="Türkiyə",Flash Haber TV (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr@HD" group-title="Türkiyə",Fortuna TV (1080p)
@@ -195,6 +201,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OlayTurkTV.tr@SD" group-title="Türkiyə",Olay Türk TV Kayseri (720p)
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 tvg-id="PatiTV.tr@SD" group-title="Türkiyə",Pati TV (1080p)
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" group-title="Türkiyə",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr@SD" group-title="Türkiyə",Power Love (1080p)
@@ -246,6 +254,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@HD" group-title="Türkiyə",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr@SD" group-title="Türkiyə",TRT 2 (1440p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Türkiyə",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" group-title="Türkiyə",TRT Arabi (1080p)
@@ -280,8 +290,8 @@ https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="Türkiyə",TRT Spor Yildiz (1440p)
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
-#EXTINF:-1 tvg-id="TRTTurk.tr@SD" group-title="Türkiyə",TRT Türk (720p)
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD" group-title="Türkiyə",TRT Turk (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Türkiyə",TRT World (720p)
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="TV264.tr@SD" group-title="Türkiyə",TV 264 (1080p)
@@ -318,6 +328,8 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5minuttishiny.ru@SD" group-title="Rusiya",5 minut tishiny (1080p)
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" group-title="Rusiya",6 TV Gorlovka (720p)
+http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Rusiya",AIST TV (576p)
 http://194.143.148.28:8080/Aist/index.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru@SD" group-title="Rusiya",Arsenal (576p)
@@ -335,19 +347,13 @@ http://88.212.15.50/live/test_bober/playlist.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" group-title="Rusiya",Bollywood HD (576p)
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="Rusiya",BRIDGE (576p)
-http://178.134.1.158:8081/BRIDGE/index.m3u8
+http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDance.ru@SD" group-title="Rusiya",BRIDGE Dance (720p)
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGEJazz.ru@SD" group-title="Rusiya",BRIDGE Jazz (720p)
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
-#EXTINF:-1 tvg-id="BRIDGERap.ru@SD" group-title="Rusiya",BRIDGE Rap (720p)
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8
-#EXTINF:-1 tvg-id="BRIDGERNB.ru@SD" group-title="Rusiya",BRIDGE RNB (720p)
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru@SD" group-title="Rusiya",BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGESoul.ru@SD" group-title="Rusiya",BRIDGE Soul (720p)
-https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGESymphony.ru@SD" group-title="Rusiya",BRIDGE Symphony (720p)
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGEVostok.ru@SD" group-title="Rusiya",BRIDGE Vostok (720p)
@@ -536,8 +542,6 @@ http://31.131.141.195:8000/play/a006/index.m3u8
 http://31.148.5.241/kanal_9/index.m3u8
 #EXTINF:-1 tvg-id="Perviyotdel.ru@SD" group-title="Rusiya",Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1 tvg-id="Pes.ru@SD" group-title="Rusiya",Pes (1080p)
-https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru@SD" group-title="Rusiya",Poehali! (576p)
 http://88.212.15.50/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" group-title="Rusiya",Priklyucheniya (576p)
@@ -642,8 +646,8 @@ https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 http://31.148.5.241/kanal_12/index.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru@SD" group-title="Rusiya",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Rusiya",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Rusiya",Star Cinema (576p)
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD" group-title="Rusiya",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" group-title="Rusiya",START Air (1080p)
@@ -694,8 +698,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 http://31.148.5.241/kanal_15/index.m3u8
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" group-title="Rusiya",TV1000 Russian Kino Global
 http://213.91.179.28:8000/play/a0bx
-#EXTINF:-1 tvg-id="U.ru@SD" group-title="Rusiya",U (576p)
-http://178.134.1.158:8081/U/index.m3u8
+#EXTINF:-1 tvg-id="U.ru@SD" group-title="Rusiya",U (720p)
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="UniverTV.ru@SD" group-title="Rusiya",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@HD" group-title="Rusiya",Unknown Russia HD (1080p)
