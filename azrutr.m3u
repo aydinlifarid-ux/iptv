@@ -47,8 +47,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr@SD" group-title="Türkiyə",Al-Zahra TV Turkic (720p)
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlanyaPostaTV.tr@SD" group-title="Türkiyə",Alanya Posta TV (1080p)
-https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" group-title="Türkiyə",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-id="AnadoluNetTV.tr@SD" group-title="Türkiyə",Anadolu Net TV (1080p)
@@ -57,8 +55,6 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD" group-title="Türkiyə",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 tvg-id="ATVAlanya.tr@SD" group-title="Türkiyə",ATV Alanya (1080p)
-https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" group-title="Türkiyə",BENGÜTÜRK TV (720p)
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="BiKanal.tr@SD" group-title="Türkiyə",Bi Kanal (1080p)
@@ -75,6 +71,8 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="Cine1.tr@SD" group-title="Türkiyə",Cine 1 (1080p)
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr@SD" group-title="Türkiyə",CNBC-e (1080p)
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr@SD" group-title="Türkiyə",CNN Turk (1080p)
 http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr@SD" group-title="Türkiyə",Deniz Postası TV (720p)
@@ -93,8 +91,6 @@ https://canli.edessatv.com/hls/stream.m3u8
 https://cdn.ekoturk.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="ERTV.tr@SD" group-title="Türkiyə",Er TV (1080p)
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
-#EXTINF:-1 tvg-id="ErzurumWebTV.tr@SD" group-title="Türkiyə",Erzurum Web TV (720p)
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
 #EXTINF:-1 tvg-id="ESTV.tr@SD" group-title="Türkiyə",ES TV (720p)
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVKayseri.tr@SD" group-title="Türkiyə",ETV Kayseri (720p)
@@ -167,8 +163,6 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD" group-title="Türkiyə",MaviKaradeniz (1080p)
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr@SD" group-title="Türkiyə",Med Muzik (1080p)
-http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr@SD" group-title="Türkiyə",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr@SD" group-title="Türkiyə",Meltem TV (1080p)
@@ -248,14 +242,14 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@HD" group-title="Türkiyə",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr@SD" group-title="Türkiyə",TRT 2 (1440p)
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Türkiyə",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" group-title="Türkiyə",TRT Arabi (1080p)
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr@SD" group-title="Türkiyə",TRT Avaz (720p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr@SD" group-title="Türkiyə",TRT Cocuk (1440p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" group-title="Türkiyə",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" tvg-chno="14" tvg-country="TR" group-title="Türkiyə",TRT EBA Ilkokul
@@ -296,6 +290,8 @@ http://canli.tvden.com.tr/hls/live.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr@SD" group-title="Türkiyə",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="Türkiyə",Van 65 TV (720p)
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Türkiyə",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Türkiyə",Zarok TV (720p)
@@ -542,8 +538,8 @@ http://s7.merlive.am/Nostalgia/index.m3u8
 http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="NST.ru@SD" group-title="Rusiya",NST (576p)
 https://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Rusiya",NTV (576p)
-http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Rusiya",NTV (1080p)
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" group-title="Rusiya",NTV Sledstviye veli (1080p)
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
 #EXTINF:-1 tvg-id="NTVStilzhizn.ru@SD" group-title="Rusiya",NTV Stil zhizn (576p)
@@ -668,8 +664,6 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="Spas.ru@SD" group-title="Rusiya",Spas (576p)
 http://31.148.5.241/kanal_12/index.m3u8
-#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" group-title="Rusiya",Sportivnyy (1080p)
-https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Rusiya",Star Cinema (576p)
 http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD" group-title="Rusiya",Star Family (1080p)
@@ -782,6 +776,8 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" group-title="Rusiya",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" group-title="Rusiya",Астрахань.Ru TV (480p)
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Belgorod24.ru@SD" group-title="Rusiya",Белгород 24 (1080p)
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" group-title="Rusiya",Большая Азия (720p)
@@ -862,10 +858,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="86.ru@SD" group-title="Rusiya",Телеканал 86 (Сургут) (1080p)
 https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-id="555.ru@SD" group-title="Rusiya",Телерадиокомпания 555 (Алушта) (720p)
-http://trk555.tv:8888/live
-#EXTINF:-1 tvg-id="Telplus.ru@SD" group-title="Rusiya",Телплюс ТВ (Астрахань) (360p)
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="TKR.ru@SD" group-title="Rusiya",ТКР (Рязань) (1080p)
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Rusiya",Толк HD (720p)
