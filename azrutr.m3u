@@ -75,8 +75,6 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="Cine1.tr@SD" group-title="Türkiyə",Cine 1 (1080p)
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr@SD" group-title="Türkiyə",CNBC-e (1080p)
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr@SD" group-title="Türkiyə",CNN Turk (1080p)
 http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr@SD" group-title="Türkiyə",Deniz Postası TV (720p)
@@ -250,14 +248,14 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@HD" group-title="Türkiyə",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr@SD" group-title="Türkiyə",TRT 2 (1440p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Türkiyə",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" group-title="Türkiyə",TRT Arabi (1080p)
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr@SD" group-title="Türkiyə",TRT Avaz (720p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr@SD" group-title="Türkiyə",TRT Cocuk (1440p)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" group-title="Türkiyə",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" tvg-chno="14" tvg-country="TR" group-title="Türkiyə",TRT EBA Ilkokul
@@ -298,14 +296,16 @@ http://canli.tvden.com.tr/hls/live.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr@SD" group-title="Türkiyə",Urfa Natik TV (720p)
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="Türkiyə",Van 65 TV (720p)
-https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Türkiyə",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Türkiyə",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Türkiyə",Çiftçi TV (720p)
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="red.ru@HD" group-title="Rusiya",.red HD (1080p)
+http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru@SD" group-title="Rusiya",.sci-fi (576p)
+http://s7.merlive.am/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" group-title="Rusiya",1HD Music Television (1080p)
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Rusiya",2x2 (576p)
@@ -320,24 +320,38 @@ https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="6TVGorlovka.ru@SD" group-title="Rusiya",6 TV Gorlovka (720p)
 http://91.214.48.158:4022/udp/224.2.2.4:10000
+#EXTINF:-1 tvg-id="A1.ru@SD" group-title="Rusiya",A1 (576p)
+http://s7.merlive.am/Amedia1/index.m3u8
 #EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Rusiya",AIST TV (576p)
 http://194.143.148.28:8080/Aist/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru@SD" group-title="Rusiya",Ani (576p)
+http://s7.merlive.am/Ani/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru@SD" group-title="Rusiya",Animal Planet (576p)
+http://s7.merlive.am/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru@SD" group-title="Rusiya",Arsenal (576p)
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ART.ru@SD" group-title="Rusiya",ART (576p)
 http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Rusiya",Auto Plus (1080p)
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Avto24.ru@SD" group-title="Rusiya",Avto24 (576p)
+http://s7.merlive.am/avto24/index.m3u8
 #EXTINF:-1 tvg-id="BabyTime.ru@SD" group-title="Rusiya",Baby Time (576p)
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Balabol.ru@SD" group-title="Rusiya",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru@SD" group-title="Rusiya",Boks TV (576p)
+http://s7.merlive.am/BoxTV/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" group-title="Rusiya",Bollywood HD (576p)
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="Rusiya",BRIDGE (576p)
 http://194.143.148.28:8080/RT_DOC/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Rusiya",Carousel (576p)
-http://31.148.5.241/kanal_8/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" group-title="Rusiya",BRIDGE Hits (576p)
+http://s7.merlive.am/BRIDGETV/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGERock.ru@SD" group-title="Rusiya",BRIDGE Rock (576p)
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Rusiya",Carousel (1080p)
+http://s7.merlive.am/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.ru@SD" group-title="Rusiya",Cartoon Classics
 http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-name="CGTN Pусский" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNRussian.cn" tvg-chno="24" tvg-country="RU" group-title="Rusiya",CGTN Pусский
@@ -362,12 +376,16 @@ http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@Europa" group-title="Rusiya",Channel One Europa (480p)
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="Che.ru@SD" group-title="Rusiya",Che! (576p)
+http://s7.merlive.am/Che/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru@SD" group-title="Rusiya",Cinema (1080p)
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru@SD" group-title="Rusiya",Da Vinci (1080p)
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" group-title="Rusiya",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" group-title="Rusiya",Detski mir (576p)
+http://s7.merlive.am/DetskiMir/index.m3u8
 #EXTINF:-1 tvg-id="Detskiy.ru@SD" group-title="Rusiya",Detskiy (576p)
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru@SD" group-title="Rusiya",Dikij (576p)
@@ -392,12 +410,16 @@ http://tshift-1.telecoma.tv/enisei/index.m3u8
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.ru@SD" group-title="Rusiya",FashionTV (1080p)
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="FONMusic.ru@SD" group-title="Rusiya",FON Music (576p)
+http://s7.merlive.am/TNTMusic/index.m3u8
 #EXTINF:-1 tvg-id="FONTV.ru@HD" group-title="Rusiya",FON TV (1080p)
 https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ru@SD" group-title="Rusiya",Food Network (576p)
+http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 tvg-id="Friday.ru@SD" group-title="Rusiya",Friday! (576p)
-http://31.148.5.241/kanal_16/index.m3u8
-#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" group-title="Rusiya",Glazami Turista (576i)
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/Pyatnica/index.m3u8
+#EXTINF:-1 tvg-id="GlazamiTurista.ru@SD" group-title="Rusiya",Glazami Turista (1080p)
+http://s7.merlive.am/glazamituristahd/index.m3u8
 #EXTINF:-1 tvg-id="Groznyj.ru@SD" group-title="Rusiya",Groznyj (720p)
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" group-title="Rusiya",Gulli Girl (720p)
@@ -414,26 +436,40 @@ https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Istoki.ru@SD" group-title="Rusiya",Istoki (1080p)
 https://istoki.tv/live/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru@SD" group-title="Rusiya",Istoriya (576p)
+http://s7.merlive.am/History2/index.m3u8
 #EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" group-title="Rusiya",Kapitan Fantastika (576p)
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KHL.ru@SD" group-title="Rusiya",KHL (576p)
 http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Rusiya",KinoHit (1080p)
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kinomix.ru@SD" group-title="Rusiya",Kinomix (576p)
-http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="Kineko.ru@HD" group-title="Rusiya",Kineko HD (1080p)
+http://s7.merlive.am/kineko/index.m3u8
+#EXTINF:-1 tvg-id="KinoHit.ru@SD" group-title="Rusiya",KinoHit (576p)
+http://s7.merlive.am/Kinoxit/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru@SD" group-title="Rusiya",Kinokomedija (576p)
+http://s7.merlive.am/Kinokomedia/index.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru@HD" group-title="Rusiya",Kinomix HD (1080p)
+http://s7.merlive.am/Kinomix/index.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru@SD" group-title="Rusiya",Kinopokaz (1080p)
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru@SD" group-title="Rusiya",Kinopremyera (1080p)
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinopremyera.ru@HD" group-title="Rusiya",Kinopremyera (1080p)
+http://s7.merlive.am/Kinopremera/index.m3u8
+#EXTINF:-1 tvg-id="Kinosemja.ru@SD" group-title="Rusiya",Kinosemja (576p)
+http://s7.merlive.am/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru@SD" group-title="Rusiya",Kinoseriya (576p)
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" group-title="Rusiya",Kinosvidanie (1080p)
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/Kinoseria/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" group-title="Rusiya",Kinosvidanie (576p)
+http://s7.merlive.am/Kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-id="KlukvaTV.ru@SD" group-title="Rusiya",Klukva TV (1080p)
+https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" group-title="Rusiya",Komedia (576p)
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru@SD" group-title="Rusiya",Kongress TV (1080p)
 https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+#EXTINF:-1 tvg-id="Ktoestkto.ru@SD" group-title="Rusiya",Kto est kto (576p)
+http://s7.merlive.am/ktoestkto/index.m3u8
+#EXTINF:-1 tvg-id="KTOKUDA.ru@SD" group-title="Rusiya",KTOKUDA (576p)
+http://s7.merlive.am/ktokuda/index.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru@MaikopskoyeTelevidenie" group-title="Rusiya",Kuban 24 (480p)
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 #EXTINF:-1 tvg-id="Kuhnya.ru@SD" group-title="Rusiya",Kuhnya (576p)
@@ -441,15 +477,19 @@ https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru@SD" group-title="Rusiya",Kulinar TV (576p)
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru@SD" group-title="Rusiya",KVN TV (576p)
-https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+http://s7.merlive.am/kvntv/index.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru@SD" group-title="Rusiya",Maidan (720p)
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mama.ru@SD" group-title="Rusiya",Mama (576p)
-https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/mama/index.m3u8
 #EXTINF:-1 tvg-id="MatchPremier.ru@SD" group-title="Rusiya",Match! Premier (576p)
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="Rusiya",Match! Ultra (576p)
-http://45.132.87.69:8080/match/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD" group-title="Rusiya",Match! Strana (576p)
+http://s7.merlive.am/matchstrana/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="Rusiya",Match! Ultra (1080p)
+http://31.148.5.241/kanal_3/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru@SD" group-title="Rusiya",MCM Top (576p)
+http://s7.merlive.am/vipserial/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru@SD" group-title="Rusiya",Ministerstvo idey (1080p)
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@SD" group-title="Rusiya",Mir (576p)
@@ -460,6 +500,8 @@ https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="Rusiya",MMA-TV.com (1080p)
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" group-title="Rusiya",Mosfilm Gold Collection (576p)
+http://s7.merlive.am/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Rusiya",Moskva 24 (1080p)
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" group-title="Rusiya",Moskva. Doveriye (576p)
@@ -468,8 +510,8 @@ https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="Mult.ru@SD" group-title="Rusiya",Mult (576p)
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Multilandia.ru@SD" group-title="Rusiya",Multilandia (1080p)
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Multilandia.ru@SD" group-title="Rusiya",Multilandia (576p)
+http://s7.merlive.am/Multilandia/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="Rusiya",Muz-TV (1080p)
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Muzhskoy.ru@HD" group-title="Rusiya",Muzhskoy HD (1080p)
@@ -480,16 +522,22 @@ https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="NashaTema.ru@SD" group-title="Rusiya",Nasha Tema (1080p)
 https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru@SD" group-title="Rusiya",Nashe Lubimoe Kino (576p)
+http://s7.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" group-title="Rusiya",Nashe Novoe Kino (1080p)
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" group-title="Rusiya",National Geographic (576p)
+http://s7.merlive.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru@SD" group-title="Rusiya",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru@SD" group-title="Rusiya",Nick Jr. (576p)
 https://stream8.cinerama.uz/1501/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ru@SD" group-title="Rusiya",Nickelodeon (576p)
+http://s7.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsCIS.ru@SD" group-title="Rusiya",Nicktoons CIS (1080p)
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" group-title="Rusiya",Nostalgia (576p)
-http://176.118.197.101/Nostalgiya/index.m3u8
+http://s7.merlive.am/Nostalgia/index.m3u8
 #EXTINF:-1 tvg-id="NovorossiyaTV.ru@SD" group-title="Rusiya",Novorossiya TV (1080p)
 http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="NST.ru@SD" group-title="Rusiya",NST (576p)
@@ -498,6 +546,12 @@ https://vod.tuva.ru/nst/index.m3u8
 http://176.118.197.101/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTVSledstviyeveli.ru@SD" group-title="Rusiya",NTV Sledstviye veli (1080p)
 https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
+#EXTINF:-1 tvg-id="NTVStilzhizn.ru@SD" group-title="Rusiya",NTV Stil zhizn (576p)
+http://s7.merlive.am/ntvstil/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" group-title="Rusiya",NTV-Hit (576p)
+http://s7.merlive.am/ntvxit/index.m3u8
+#EXTINF:-1 tvg-id="o2tv.ru@SD" group-title="Rusiya",o2tv (576p)
+http://s7.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" group-title="Rusiya",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Rusiya",Okhota i rybalka (1080p)
@@ -512,6 +566,8 @@ http://31.148.5.241/kanal_9/index.m3u8
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1 tvg-id="Pes.ru@SD" group-title="Rusiya",Pes (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" group-title="Rusiya",Pobeda (576p)
+http://s7.merlive.am/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" group-title="Rusiya",Priklyucheniya (576p)
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ProBusiness.ru@SD" group-title="Rusiya",Pro Business (720p)
@@ -525,19 +581,21 @@ https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="RadioRossii.ru@HD" group-title="Rusiya",Radio Rossii (720p)
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru@SD" group-title="Rusiya",Radost Moya (576p)
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+http://s7.merlive.am/Radostmoya/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="Rusiya",RBK-TV (576p)
+http://s7.merlive.am/RBK/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru@SD" group-title="Rusiya",REN TV (576p)
 http://185.23.80.23:8080/REN/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Rusiya",Retro (1080p)
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" group-title="Rusiya",Rodnoe Kino (1080p)
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" group-title="Rusiya",Rodnoe Kino (576p)
+http://s7.merlive.am/rodnoekino/index.m3u8
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" group-title="Rusiya",Rossiya 1 Vainah (576i)
 #EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBalkan.ru@SD" group-title="Rusiya",RT Balkan (1080p)
-https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
+https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Rusiya",RT en Espanol (576p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru@HD" group-title="Rusiya",RT HD (1080p)
@@ -545,6 +603,8 @@ https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" group-title="Rusiya",RTG int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="RTGTV.ru@HD" group-title="Rusiya",RTG TV HD (1080p)
+http://s7.merlive.am/rtgtv/index.m3u8
 #EXTINF:-1 tvg-id="RTVi.ru@SD" group-title="Rusiya",RTVi (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/RTVi/index.m3u8
@@ -566,12 +626,16 @@ https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" group-title="Rusiya",Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru@SD" group-title="Rusiya",Sarafan (576p)
+http://s7.merlive.am/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Rusiya",Shanson TV (576p)
 https://streaming.thestream.cyou/live/7009.m3u8
 #EXTINF:-1 tvg-id="Shef.ru@SD" group-title="Rusiya",Shef (1080p)
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD" group-title="Rusiya",Shopping Live (720p)
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShotTV.ru@SD" group-title="Rusiya",Shot TV (576p)
+http://s7.merlive.am/SHOTTV/index.m3u8
 #EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" group-title="Rusiya",Skoraya pomoshch (1080p)
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="Rusiya",Smile TV (720p)
@@ -614,12 +678,18 @@ https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" group-title="Rusiya",STS (576p)
 http://31.148.5.241/kanal_13/index.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="Rusiya",STS kids (576p)
+http://s7.merlive.am/STSkids/index.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="Rusiya",STS Love (576p)
+http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="Rusiya",Subbota! (576p)
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 tvg-id="SuperGeroi.ru@SD" group-title="Rusiya",SuperGeroi (576p)
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 tvg-id="T24.ru@SD" group-title="Rusiya",T24 (1080p)
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TaynyGalaktiki.ru@SD" group-title="Rusiya",Tayny Galaktiki (576p)
+http://s7.merlive.am/tainigalaktiki/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Rusiya",Telecafe (1080p)
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleDom.ru@SD" group-title="Rusiya",TeleDom
@@ -627,7 +697,9 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="TheExplorers.ru@SD" group-title="Rusiya",The Explorers (1080p)
 https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Rusiya",TiJi (576p)
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/TiJi/index.m3u8
+#EXTINF:-1 tvg-id="TLC.ru@SD" group-title="Rusiya",TLC (576p)
+http://s7.merlive.am/tlc/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ru@SD" group-title="Rusiya",TNT (576p)
 http://31.148.5.241/kanal_19/index.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru@SD" group-title="Rusiya",TNV-Planet (1080p)
@@ -635,13 +707,19 @@ https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNVTatarstan.ru@SD" group-title="Rusiya",TNV-Tatarstan (720p)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 tvg-id="Tochkaotryva.ru@SD" group-title="Rusiya",Tochka otryva (576p)
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/tochkaotriva/index.m3u8
+#EXTINF:-1 tvg-id="Tochkarf.ru@HD" group-title="Rusiya",Tochka.rf (1080p)
+http://s7.merlive.am/HDLife/index.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru@SD" group-title="Rusiya",Tonus (576p)
 http://194.143.148.28:8080/Mir24/index.m3u8
 #EXTINF:-1 tvg-id="Tooku.ru@SD" group-title="Rusiya",Tooku (1080p)
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru@SD" group-title="Rusiya",Top Secret (576p)
+http://s7.merlive.am/sovershennosekretno/index.m3u8
 #EXTINF:-1 tvg-id="TsargradTV.ru@SD" group-title="Rusiya",Tsargrad TV (1080p)
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+#EXTINF:-1 tvg-id="TV21.ru@SD" group-title="Rusiya",TV 21 (576p)
+http://s7.merlive.am/21TV/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" group-title="Rusiya",TV BRICS Russian (1080p)
 http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Rusiya",TV Centr (576p)
@@ -651,7 +729,7 @@ https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVPRO.ru@SD" group-title="Rusiya",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="TV3.ru@SD" group-title="Rusiya",TV-3 (576p)
-http://31.148.5.241/kanal_15/index.m3u8
+http://s7.merlive.am/TV3International/index.m3u8
 #EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" group-title="Rusiya",TV1000 Russian Kino Global
 http://213.91.179.28:8000/play/a0bx
 #EXTINF:-1 tvg-id="U.ru@SD" group-title="Rusiya",U (720p)
@@ -678,18 +756,22 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD" group-title="Rusiya",VIVA Russia (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="Vkus.ru@SD" group-title="Rusiya",Vkus (576p)
+http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru@SD" group-title="Rusiya",Vmeste-RF (576p)
 https://streaming.thestream.cyou/live/7006.m3u8
 #EXTINF:-1 tvg-id="Volleyball.ru@SD" group-title="Rusiya",Volleyball (1080p)
 https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" group-title="Rusiya",Yuvelirochka (576p)
+http://s7.merlive.am/uvelirochka/index.m3u8
 #EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Rusiya",Zagorodnaya Zhizn (576p)
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" group-title="Rusiya",Zdorovoe TV (576p)
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" group-title="Rusiya",Zhivaya Planeta (576p)
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Rusiya",Zoopark (576i)
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Rusiya",Zoopark (576p)
+http://s7.merlive.am/zoopark/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="Rusiya",Zvezda (1080p)
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Rusiya",Арис 24 (720p)
@@ -700,8 +782,6 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" group-title="Rusiya",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" group-title="Rusiya",Астрахань.Ru TV (480p)
-https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Belgorod24.ru@SD" group-title="Rusiya",Белгород 24 (1080p)
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" group-title="Rusiya",Большая Азия (720p)
@@ -760,8 +840,6 @@ https://streaming.televizor-24-tochka.ru/live/19.m3u8
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" group-title="Rusiya",Радио Говорит Москва (Веб-камера) (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="Rusiya",РБК (СПБ) (576p)
-https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 tvg-id="S1.ru@SD" group-title="Rusiya",С1 (Сургут) (1080p)
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="Rusiya",Самара ГИС (1080p)
@@ -798,5 +876,3 @@ https://hls.tv.3angels.ru/stream.m3u8
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" group-title="Rusiya",Щёлковское ТВ (576p)
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" group-title="Rusiya",Ювелирочка ТВ (576p)
-https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
